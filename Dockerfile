@@ -1,1 +1,1 @@
-FROM metabase/metabase:v0.52.4
+FROM metabase/metabase:v0.53.6
